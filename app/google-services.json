@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533786373773",
+    "project_id": "btllogin-b5f6d",
+    "storage_bucket": "btllogin-b5f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533786373773:android:6ebf352eb468422626bcc4",
+        "android_client_info": {
+          "package_name": "com.example.btllogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDceqZH052FoL2k961IgQemRodBsoha9c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
